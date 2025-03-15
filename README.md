@@ -4,6 +4,7 @@
 
 Directory tree:
 
+<!--
 DynamoSim.jl/
 ├── src/
 │   ├── Core/
@@ -15,3 +16,4 @@ DynamoSim.jl/
 │   └── DynamoSim.jl               # Main exports
 └── test/
     └── runtests.jl
+-->
